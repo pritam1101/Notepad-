@@ -29,3 +29,11 @@ With its intuitive interface and minimalist design, Notepad offers users a distr
 
    Customizable themes and font settings to personalize the user experience.
    Plugin support to extend functionality, allowing users to add features as needed.
+
+## Home Page
+![Screenshot 2024-06-03 184425](https://github.com/pritam1101/Notepad-/assets/159442297/7971ed08-790d-4255-85c1-24ecd4478f21)
+
+## Manue Bar For(New Window, sava, open folder and etc)
+![Screenshot 2024-06-03 183850](https://github.com/pritam1101/Notepad-/assets/159442297/0983214a-5449-436c-9b81-e54940a00527)
+![Screenshot 2024-06-03 183915](https://github.com/pritam1101/Notepad-/assets/159442297/074b4ea5-878c-48fc-977c-1752c4494bc8)
+
