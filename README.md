@@ -1,7 +1,7 @@
 # Notepad Software Developed in Java
 ### Overview:
-Notepad is a lightweight and versatile text editor designed for a wide range of uses, from simple note-taking to complex coding tasks.
-With its intuitive interface and minimalist design, Notepad offers users a distraction-free environment to jot down ideas, draft documents, edit scripts, or write code.
+ Notepad is a lightweight and versatile text editor designed for a wide range of uses, from simple note-taking to complex coding tasks.
+ With its intuitive interface and minimalist design, Notepad offers users a distraction-free environment to jot down ideas, draft documents, edit scripts, or write code.
 
 ## Key Features:
 
